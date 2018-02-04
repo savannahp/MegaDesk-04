@@ -1,0 +1,14 @@
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk-04-SavannahPyle.csprojResolveAssemblyReference.cache
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk_03_SavannahPyle.AddQuote.resources
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk_03_SavannahPyle.DisplayQuote.resources
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk_03_SavannahPyle.MainMenu.resources
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk_03_SavannahPyle.Properties.Resources.resources
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk_03_SavannahPyle.SearchQuotes.resources
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk_03_SavannahPyle.ViewAllQuotes.resources
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk-04-SavannahPyle.csproj.GenerateResource.Cache
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk-04-SavannahPyle.csproj.CoreCompileInputs.cache
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk-03-SavannahPyle.exe
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\obj\Debug\MegaDesk-03-SavannahPyle.pdb
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\bin\Debug\MegaDesk-03-SavannahPyle.exe.config
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\bin\Debug\MegaDesk-03-SavannahPyle.exe
+C:\Users\Savannah Kei\source\repos\MegaDesk-04-SavannahPyle\MegaDesk-03-SavannahPyle\bin\Debug\MegaDesk-03-SavannahPyle.pdb
